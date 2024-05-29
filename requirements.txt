@@ -1,1 +1,1 @@
-Django
+pylint-django[with-django]
